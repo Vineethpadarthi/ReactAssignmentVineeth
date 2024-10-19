@@ -1,0 +1,36 @@
+.destination-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.time {
+  color: #64748b;
+  margin-right: 10px;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.heading {
+  color: #323f4b;
+  margin-right: 12px;
+}
+
+.url {
+  color: #64748b;
+}
+.delete-icon{
+  margin-right: 20px;
+  padding-top: 20px;
+}
